@@ -1,6 +1,7 @@
 from keras.layers import SimpleRNN, Embedding, Dense, LSTM
 from keras.models import Sequential
 
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
